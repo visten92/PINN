@@ -1,5 +1,5 @@
 # PINN 
-A Physics Informed Neural Network Implementation for Burgers Equation in Tensorflow 2 - Keras
+A Physics Informed Neural Network Implementation for Burgers Equation in Tensorflow 2.0 - Keras
 
 ### Authors and citations
 - Raissi, Maziar, Paris Perdikaris, and George Em Karniadakis. *["Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations."](https://arxiv.org/abs/1711.10561)* arXiv preprint arXiv:1711.10561 (2017).
