@@ -16,8 +16,8 @@ import tensorflow_probability as tfp
 from pyDOE import lhs
 import scipy.io
 from tensorflow.keras import layers
-from PINN_keras_helper import optimizer_function_factory
-from PINN_keras_helper import differential_equation_loss
+from PINN_helper import optimizer_function_factory
+from PINN_helper import differential_equation_loss
 
 N_u = 100                    # number of data points
 N_f = 10000                  # number of points where the differential equation must be satisfied
